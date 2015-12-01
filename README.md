@@ -1,4 +1,4 @@
-- Work Under Progress -
+/ Work Under Progress /
 
 # Free Balance Inquiry testing automation script
 To run series of MSISDNs against the Free Balance Inquiry service of Mobily
