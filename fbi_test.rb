@@ -5,7 +5,9 @@ require 'nokogiri'
 
 # main call
 def start
-  loop_msisdns
+  summary_file = File.open('summary.txt', 'w')
+  loop_msisdns(summary_file)
+  summary_file.close
   puts 'Done'
 end
 
@@ -21,65 +23,75 @@ def read_msisdns_files
 end
 
 # loop list of MSISDNs then call SF service for each
-def loop_msisdns
+def loop_msisdns(summary_file)
   array = read_msisdns_files
   unless array.empty?
     array.each do |msisdn|
       url = "http://10.64.239.220:8888/sqi/fbi?msisdn=#{msisdn.to_i}&reqId=12465451465465&reqUser=Hammam&reqChannel=Hammam&resFormat=XML&msgVersion=1&functionId=ALL&sType=PRE&mode=ALL&reqFunction=FBI"
-      parse_xml(url)
+      parse_xml(url, summary_file)
     end
   end
 end
 
 # Parse the XML response
-def parse_xml(url)
+def parse_xml(url, summary_file)
   response = RestClient.get url
   doc = Nokogiri::XML(response.to_str)
-  check_if_resorces_available(doc)
+  check_if_resorces_available(doc, summary_file)
 end
 
 # if the number doesn't have a resources? ignore it
-def check_if_resorces_available(doc)
+def check_if_resorces_available(doc, summary_file)
   resourceType = doc.xpath('//resourceType')
   subscriberId = doc.at_xpath('///subscriberId').content
+  balance = doc.at_xpath('///balance').content
   if resourceType.length == 0
     puts "#{subscriberId} was ignored!"
   else
-    write_to_file(doc)
+    write_to_file(doc, summary_file)
+    resources = find_resources_of_msisdn(doc, subscriberId, summary_file, balance)
     puts "#{subscriberId} has been added"
   end
 end
 
 # Write XML response to a file
-def write_to_file(doc)
+def write_to_file(doc, summary_file)
   subscriberId = doc.at_xpath('///subscriberId').content
-  # resources = find_resources_of_msisdn(doc)
 
-  f = File.open('tests/' + File.basename(subscriberId, File.extname(subscriberId)) + '.txt', 'w')
+  f = File.open('POT/' + File.basename(subscriberId, File.extname(subscriberId)) + '.txt', 'w')
   f.write('MSISDN: ' + subscriberId + "\n")
-  # f.write("resources: " + resources + "\n")
   f.write(doc)
   f.close
 end
 
 # find the FBI resources and return them in an array
-def find_resources_of_msisdn(doc)
-  resources = []
-  resource = doc.at_xpath('///resource')
-  resource.each do |r|
-    resources << r
+def find_resources_of_msisdn(doc, subscriberId, summary_file, balance)
+  resources = Hash.new{|hash, key| hash[key] = Hash.new }
+  doc.css('resource').each do |r|
+    source = r.css('source')[0].text
+    resources[source]['type'] = r.css('type')[0].text
+    resources[source]['specialUse'] = r.css('specialUse')[0].text
+    resources[source]['remaining'] = r.css('remaining')[0].text
+    resources[source]['consumed'] = r.css('consumed')[0].text
+    resources[source]['original'] = r.css('original')[0].text
   end
-  puts resources
+  write_to_summary_file(resources, subscriberId, summary_file, balance)
 end
 
-# Print XML response details
-def print_details(doc)
-  summary = doc.at_xpath('//summary')
-  custInfo = doc.at_xpath('//custInfo')
-  subscriberId = doc.at_xpath('///subscriberId')
-  puts subscriberId.content
+# print MSISDN + the resources it has into the summary file, in the following format
+# MSISDN: 966561055043
+# ---
+# Source 1: Prime Package - VOICE-OnNet: c[362] r[1638] t[2000]
+# ....
+def write_to_summary_file(resources, subscriberId, summary_file, balance)
+  source = 1
+  summary_file.write('MSISDN: ' + subscriberId + " - Balance: " + balance + "\n")
+  summary_file.write("--- \n")
+  resources.each do |r|
+    summary_file.write("Source #{source}: " + r.to_s + "\n")
+    source += 1
+  end
+  summary_file.write("================== \n\n")
 end
 
-
-# start running the script
 start

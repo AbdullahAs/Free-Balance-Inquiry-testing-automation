@@ -1,0 +1,127 @@
+MSISDN: 966546367345
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FBIResponseMessage>
+  <header>
+    <reqFunction>FBI</reqFunction>
+    <msgVersion>1</msgVersion>
+    <reqUser>Hammam</reqUser>
+    <resTime>12/02/2015 13:57:29</resTime>
+    <reqId>12465451465465</reqId>
+    <reqChannel>Hammam</reqChannel>
+    <statusCode>0000</statusCode>
+    <statusDesc>successful</statusDesc>
+  </header>
+  <body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="body">
+    <custInfo>
+      <subscriberId>966546367345</subscriberId>
+      <activationDate>20140820T12-00-00+0000</activationDate>
+      <lineValidity>20161215T12-00-00+0000</lineValidity>
+      <sType>PRE</sType>
+      <balance>176</balance>
+    </custInfo>
+    <summary>
+      <resourceType>
+        <type>DATA</type>
+        <subType>Local</subType>
+        <specialUse/>
+        <unitType>KB</unitType>
+        <remaining>4193180</remaining>
+        <consumed>1124</consumed>
+        <original>4194304</original>
+        <firstExpiry>20151126T12-00-00+0000</firstExpiry>
+        <lastExpiry>20151214T12-00-00+0000</lastExpiry>
+      </resourceType>
+      <resourceType>
+        <type>VOICE</type>
+        <subType>National</subType>
+        <specialUse/>
+        <unitType>MIN</unitType>
+        <remaining>126</remaining>
+        <consumed>114</consumed>
+        <original>240</original>
+        <firstExpiry>20151201T12-00-00+0000</firstExpiry>
+        <lastExpiry>20151214T12-00-00+0000</lastExpiry>
+      </resourceType>
+    </summary>
+    <details>
+      <resource>
+        <source>Prime Package</source>
+        <sourceType>PACKAGE</sourceType>
+        <type>VOICE</type>
+        <subType>National</subType>
+        <specialUse/>
+        <unitType>MIN</unitType>
+        <remaining>63</remaining>
+        <consumed>57</consumed>
+        <original>120</original>
+        <startDate>20151201T12-00-00+0000</startDate>
+        <endDate>20151214T12-00-00+0000</endDate>
+      </resource>
+      <resource>
+        <source>Prime Package</source>
+        <sourceType>PACKAGE</sourceType>
+        <type>DATA</type>
+        <subType>Local</subType>
+        <specialUse/>
+        <unitType>KB</unitType>
+        <remaining>1048570</remaining>
+        <consumed>6</consumed>
+        <original>1048576</original>
+        <startDate>20151201T12-00-00+0000</startDate>
+        <endDate>20151214T12-00-00+0000</endDate>
+      </resource>
+      <resource>
+        <source>Prime Package</source>
+        <sourceType>PACKAGE</sourceType>
+        <type>DATA</type>
+        <subType>Local</subType>
+        <specialUse/>
+        <unitType>KB</unitType>
+        <remaining>1048020</remaining>
+        <consumed>556</consumed>
+        <original>1048576</original>
+        <startDate>20151126T12-00-00+0000</startDate>
+        <endDate>20151202T12-00-00+0000</endDate>
+      </resource>
+      <resource>
+        <source>Prepaid Bundles 40 Mobily</source>
+        <sourceType>ADDON</sourceType>
+        <type>VOICE</type>
+        <subType>National</subType>
+        <specialUse/>
+        <unitType>MIN</unitType>
+        <remaining>63</remaining>
+        <consumed>57</consumed>
+        <original>120</original>
+        <startDate>20151201T12-00-00+0000</startDate>
+        <endDate>20151214T12-00-00+0000</endDate>
+      </resource>
+      <resource>
+        <source>Prepaid Bundles 40 Mobily</source>
+        <sourceType>ADDON</sourceType>
+        <type>DATA</type>
+        <subType>Local</subType>
+        <specialUse/>
+        <unitType>KB</unitType>
+        <remaining>1048570</remaining>
+        <consumed>6</consumed>
+        <original>1048576</original>
+        <startDate>20151201T12-00-00+0000</startDate>
+        <endDate>20151214T12-00-00+0000</endDate>
+      </resource>
+      <resource>
+        <source>Prepaid Bundles 40 Mobily</source>
+        <sourceType>ADDON</sourceType>
+        <type>DATA</type>
+        <subType>Local</subType>
+        <specialUse/>
+        <unitType>KB</unitType>
+        <remaining>1048020</remaining>
+        <consumed>556</consumed>
+        <original>1048576</original>
+        <startDate>20151126T12-00-00+0000</startDate>
+        <endDate>20151202T12-00-00+0000</endDate>
+      </resource>
+    </details>
+  </body>
+</FBIResponseMessage>

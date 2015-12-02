@@ -1,0 +1,51 @@
+MSISDN: 966546100777
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FBIResponseMessage>
+  <header>
+    <reqFunction>FBI</reqFunction>
+    <msgVersion>1</msgVersion>
+    <reqUser>Hammam</reqUser>
+    <resTime>12/02/2015 13:58:19</resTime>
+    <reqId>12465451465465</reqId>
+    <reqChannel>Hammam</reqChannel>
+    <statusCode>0000</statusCode>
+    <statusDesc>successful</statusDesc>
+  </header>
+  <body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="body">
+    <custInfo>
+      <subscriberId>966546100777</subscriberId>
+      <activationDate>20100629T12-00-00+0000</activationDate>
+      <lineValidity>20171214T12-00-00+0000</lineValidity>
+      <sType>PRE</sType>
+      <balance>2053</balance>
+    </custInfo>
+    <summary>
+      <resourceType>
+        <type>DATA</type>
+        <subType>Local</subType>
+        <specialUse/>
+        <unitType>KB</unitType>
+        <remaining>2097152</remaining>
+        <consumed>0</consumed>
+        <original>2097152</original>
+        <firstExpiry>20151130T12-00-00+0000</firstExpiry>
+        <lastExpiry>20151230T12-00-00+0000</lastExpiry>
+      </resourceType>
+    </summary>
+    <details>
+      <resource>
+        <source>Internet 2 GB</source>
+        <sourceType>ADDON</sourceType>
+        <type>DATA</type>
+        <subType>Local</subType>
+        <specialUse/>
+        <unitType>KB</unitType>
+        <remaining>2097152</remaining>
+        <consumed>0</consumed>
+        <original>2097152</original>
+        <startDate>20151130T12-00-00+0000</startDate>
+        <endDate>20151230T12-00-00+0000</endDate>
+      </resource>
+    </details>
+  </body>
+</FBIResponseMessage>

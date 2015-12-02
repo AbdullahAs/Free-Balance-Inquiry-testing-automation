@@ -1,0 +1,51 @@
+MSISDN: 966543681378
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FBIResponseMessage>
+  <header>
+    <reqFunction>FBI</reqFunction>
+    <msgVersion>1</msgVersion>
+    <reqUser>Hammam</reqUser>
+    <resTime>12/02/2015 13:57:52</resTime>
+    <reqId>12465451465465</reqId>
+    <reqChannel>Hammam</reqChannel>
+    <statusCode>0000</statusCode>
+    <statusDesc>successful</statusDesc>
+  </header>
+  <body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="body">
+    <custInfo>
+      <subscriberId>966543681378</subscriberId>
+      <activationDate>20120816T12-00-00+0000</activationDate>
+      <lineValidity>20160106T12-00-00+0000</lineValidity>
+      <sType>PRE</sType>
+      <balance>153</balance>
+    </custInfo>
+    <summary>
+      <resourceType>
+        <type>DATA</type>
+        <subType>Local</subType>
+        <specialUse>WhatsApp</specialUse>
+        <unitType>KB</unitType>
+        <remaining>-1</remaining>
+        <consumed>-1</consumed>
+        <original>-1</original>
+        <firstExpiry/>
+        <lastExpiry/>
+      </resourceType>
+    </summary>
+    <details>
+      <resource>
+        <source>WhatsApp Monthly </source>
+        <sourceType>ADDON</sourceType>
+        <type>DATA</type>
+        <subType>Local</subType>
+        <specialUse>WhatsApp</specialUse>
+        <unitType>KB</unitType>
+        <remaining>-1</remaining>
+        <consumed>-1</consumed>
+        <original>-1</original>
+        <startDate/>
+        <endDate/>
+      </resource>
+    </details>
+  </body>
+</FBIResponseMessage>

@@ -1,0 +1,522 @@
+MSISDN: 966561055043 - Balance: 26
+--- 
+Source 1: ["Prime Package", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"1048570", "consumed"=>"6", "original"=>"1048576"}]
+Source 2: ["Prepaid Bundles 40 Mobily", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"1048570", "consumed"=>"6", "original"=>"1048576"}]
+================== 
+
+MSISDN: 966564665988 - Balance: 0
+--- 
+Source 1: ["BlackBerry 10 Lite", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966564454623 - Balance: 0
+--- 
+Source 1: ["Prime Package", {"type"=>"VOICE", "specialUse"=>"", "remaining"=>"3", "consumed"=>"77", "original"=>"80"}]
+Source 2: ["Prepaid Bundles 20 Mobily", {"type"=>"VOICE", "specialUse"=>"", "remaining"=>"3", "consumed"=>"77", "original"=>"80"}]
+================== 
+
+MSISDN: 966568479916 - Balance: 0
+--- 
+Source 1: ["Prime Package", {"type"=>"VOICE", "specialUse"=>"", "remaining"=>"55", "consumed"=>"25", "original"=>"80"}]
+Source 2: ["Prepaid Bundles 20 Mobily", {"type"=>"VOICE", "specialUse"=>"", "remaining"=>"55", "consumed"=>"25", "original"=>"80"}]
+================== 
+
+MSISDN: 966569157628 - Balance: 178
+--- 
+Source 1: ["BlackBerry Plus", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966543268452 - Balance: 4
+--- 
+Source 1: ["Prime Package", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"962200", "consumed"=>"1134952", "original"=>"2097152"}]
+================== 
+
+MSISDN: 966544587664 - Balance: 938
+--- 
+Source 1: ["Prime Package", {"type"=>"VOICE", "specialUse"=>"", "remaining"=>"7", "consumed"=>"73", "original"=>"80"}]
+================== 
+
+MSISDN: 966548484135 - Balance: 5503
+--- 
+Source 1: ["Prime Package", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"1048570", "consumed"=>"6", "original"=>"1048576"}]
+Source 2: ["Internet 5 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"2759980", "consumed"=>"2482900", "original"=>"5242880"}]
+Source 3: ["Prepaid Bundles 40 Mobily", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"1048570", "consumed"=>"6", "original"=>"1048576"}]
+================== 
+
+MSISDN: 966546367345 - Balance: 176
+--- 
+Source 1: ["Prime Package", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"1048020", "consumed"=>"556", "original"=>"1048576"}]
+Source 2: ["Prepaid Bundles 40 Mobily", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"1048020", "consumed"=>"556", "original"=>"1048576"}]
+================== 
+
+MSISDN: 966562718285 - Balance: 0
+--- 
+Source 1: ["BlackBerry 10 Lite", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966542281138 - Balance: 2
+--- 
+Source 1: ["Prime Package", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"1048570", "consumed"=>"6", "original"=>"1048576"}]
+================== 
+
+MSISDN: 966566328860 - Balance: 0
+--- 
+Source 1: ["BlackBerry Plus", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966555997784 - Balance: 11584
+--- 
+Source 1: ["New 7ala 1 MNP", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"4332880", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966568043421 - Balance: 16637
+--- 
+Source 1: ["New 7ala 1", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"5098130", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966543866052 - Balance: 70
+--- 
+Source 1: ["7ala_Plus_TM9114", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"10", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["BlackBerry Premium", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966544274772 - Balance: 2755
+--- 
+Source 1: ["7ala plus", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"50", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966549820288 - Balance: 4851
+--- 
+Source 1: ["7ala plus", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"50", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966546728453 - Balance: 0
+--- 
+Source 1: ["7ala plus", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"0", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966543211736 - Balance: 6
+--- 
+Source 1: ["BlackBerry 10 Lite", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966543681378 - Balance: 153
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966542562585 - Balance: 311
+--- 
+Source 1: ["7ala plus", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"10", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966549261244 - Balance: 309278
+--- 
+Source 1: ["Internet 2 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"2047502", "consumed"=>"49650", "original"=>"2097152"}]
+Source 2: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966564767730 - Balance: 79
+--- 
+Source 1: ["BlackBerry Premium", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966545757270 - Balance: 4
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966544664798 - Balance: 5
+--- 
+Source 1: ["BlackBerry Plus", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966541681862 - Balance: 391
+--- 
+Source 1: ["New 7ala 1", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"204800", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966543022044 - Balance: 8762
+--- 
+Source 1: ["7ala National", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"15", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966546771615 - Balance: 10750
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966560777667 - Balance: 3588
+--- 
+Source 1: ["7ala plus", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"10", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966566857844 - Balance: 892
+--- 
+Source 1: ["7ala_Plus_TM9114", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"10", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966546100777 - Balance: 2053
+--- 
+Source 1: ["Internet 2 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"2097152", "consumed"=>"0", "original"=>"2097152"}]
+================== 
+
+MSISDN: 966541141938 - Balance: 7
+--- 
+Source 1: ["7ala plus", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"7", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966569985857 - Balance: 9036
+--- 
+Source 1: ["New 7ala 1", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"4669880", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966545051838 - Balance: 5607
+--- 
+Source 1: ["New 7ala 1", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"2061150", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966503773731 - Balance: 849
+--- 
+Source 1: ["7ala_Plus_TM9114_MNP", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"20", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966566257322 - Balance: 0
+--- 
+Source 1: ["BlackBerry 10 Plus", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966543717107 - Balance: 894
+--- 
+Source 1: ["7ala plus", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"10", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966544651113 - Balance: 9
+--- 
+Source 1: ["BlackBerry Plus", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966540905005 - Balance: 0
+--- 
+Source 1: ["BlackBerry Plus", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966563983898 - Balance: 0
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966546700704 - Balance: 4791
+--- 
+Source 1: ["Twitter Monthly", {"type"=>"DATA", "specialUse"=>"Twitter", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966562388635 - Balance: 36403
+--- 
+Source 1: ["Internet 2 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"262552", "consumed"=>"1834600", "original"=>"2097152"}]
+================== 
+
+MSISDN: 966549722218 - Balance: 923
+--- 
+Source 1: ["New 7ala 1", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"204800", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966562966402 - Balance: 43
+--- 
+Source 1: ["7ala plus", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"10", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966563953578 - Balance: 516
+--- 
+Source 1: ["New 7ala 1", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"204800", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["Internet 2 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"254302", "consumed"=>"1842850", "original"=>"2097152"}]
+================== 
+
+MSISDN: 966542484902 - Balance: 1796
+--- 
+Source 1: ["7ala_Plus_TM9114", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"30", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 3: ["Facebook Monthly", {"type"=>"DATA", "specialUse"=>"Facebook", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966563692297 - Balance: 1208
+--- 
+Source 1: ["7ala Easy", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"0", "consumed"=>"204800", "original"=>"204800"}]
+Source 2: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 3: ["Facebook Monthly", {"type"=>"DATA", "specialUse"=>"Facebook", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966568395668 - Balance: 993
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 2: ["Facebook Monthly", {"type"=>"DATA", "specialUse"=>"Facebook", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966564454158 - Balance: 1469
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 2: ["Facebook Monthly", {"type"=>"DATA", "specialUse"=>"Facebook", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966569155646 - Balance: 12
+--- 
+Source 1: ["Facebook Monthly", {"type"=>"DATA", "specialUse"=>"Facebook", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966543668860 - Balance: 2
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 2: ["Facebook Monthly", {"type"=>"DATA", "specialUse"=>"Facebook", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966562293933 - Balance: 75
+--- 
+Source 1: ["Facebook Monthly", {"type"=>"DATA", "specialUse"=>"Facebook", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966545454277 - Balance: 480
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966548889924 - Balance: 5
+--- 
+Source 1: ["7ala National", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"5", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["Facebook Monthly", {"type"=>"DATA", "specialUse"=>"Facebook", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966548354879 - Balance: 9
+--- 
+Source 1: ["Internet 2 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"649502", "consumed"=>"1447650", "original"=>"2097152"}]
+Source 2: ["Twitter Monthly", {"type"=>"DATA", "specialUse"=>"Twitter", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966545057848 - Balance: 18
+--- 
+Source 1: ["Internet 2 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"2044302", "consumed"=>"52850", "original"=>"2097152"}]
+Source 2: ["BlackBerry Roaming", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966537297982 - Balance: 3892
+--- 
+Source 1: ["New 7ala 1 MNP", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"550", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["Twitter Monthly", {"type"=>"DATA", "specialUse"=>"Twitter", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966542476913 - Balance: 622
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 2: ["Twitter Monthly", {"type"=>"DATA", "specialUse"=>"Twitter", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966545026271 - Balance: 574
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966542687665 - Balance: 991
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 2: ["Twitter Monthly", {"type"=>"DATA", "specialUse"=>"Twitter", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966568579617 - Balance: 6
+--- 
+Source 1: ["BlackBerry 10 Plus", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 2: ["Twitter Monthly", {"type"=>"DATA", "specialUse"=>"Twitter", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966566281310 - Balance: 0
+--- 
+Source 1: ["7ala National", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"0", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 3: ["Twitter Monthly", {"type"=>"DATA", "specialUse"=>"Twitter", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966548566785 - Balance: 772
+--- 
+Source 1: ["7ala_Plus_TM9114", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"10", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966564582644 - Balance: 1
+--- 
+Source 1: ["Twitter Monthly", {"type"=>"DATA", "specialUse"=>"Twitter", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966561186384 - Balance: 261
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966562206994 - Balance: 95
+--- 
+Source 1: ["Internet 2 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"2097152", "consumed"=>"0", "original"=>"2097152"}]
+Source 2: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966566671317 - Balance: 10187
+--- 
+Source 1: ["New 7ala 1 MNP", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"4859380", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966548333547 - Balance: 6
+--- 
+Source 1: ["Internet 2 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"322652", "consumed"=>"1774500", "original"=>"2097152"}]
+================== 
+
+MSISDN: 966599588457 - Balance: 71
+--- 
+Source 1: ["C7_Step7", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"2048000", "consumed"=>"0", "original"=>"2048000"}]
+================== 
+
+MSISDN: 966541636261 - Balance: 0
+--- 
+Source 1: ["Internet 2 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"2013652", "consumed"=>"83500", "original"=>"2097152"}]
+Source 2: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966547991105 - Balance: 285
+--- 
+Source 1: ["Internet 2 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"1556602", "consumed"=>"540550", "original"=>"2097152"}]
+================== 
+
+MSISDN: 966567047222 - Balance: 3222
+--- 
+Source 1: ["7ala National", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"25", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966560532111 - Balance: 1018
+--- 
+Source 1: ["Internet 1 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"321176", "consumed"=>"727400", "original"=>"1048576"}]
+================== 
+
+MSISDN: 966548548087 - Balance: 245
+--- 
+Source 1: ["7ala National", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"10", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["Internet 1 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-935124", "consumed"=>"1983700", "original"=>"1048576"}]
+================== 
+
+MSISDN: 966546402171 - Balance: 759
+--- 
+Source 1: ["Internet 5 GB", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"1984830", "consumed"=>"3258050", "original"=>"5242880"}]
+================== 
+
+MSISDN: 966567778418 - Balance: 20
+--- 
+Source 1: ["Internet Unlimited", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966543241320 - Balance: 3171
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966569991106 - Balance: 1
+--- 
+Source 1: ["BlackBerry 10 Lite", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 2: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966551445560 - Balance: 12196
+--- 
+Source 1: ["New 7ala 1 MNP", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"4282630", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966569369399 - Balance: 543
+--- 
+Source 1: ["7ala plus", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"10", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966540927977 - Balance: 4905
+--- 
+Source 1: ["BlackBerry Roaming", {"type"=>"DATA", "specialUse"=>"BBM", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966599995379 - Balance: 9423
+--- 
+Source 1: ["New 7ala 1 MNP", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"1215630", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966560271744 - Balance: 18593
+--- 
+Source 1: ["New 7ala 1", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"3358630", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966564179996 - Balance: 12255
+--- 
+Source 1: ["New 7ala 1", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"3641130", "consumed"=>"-2", "original"=>"-2"}]
+================== 
+
+MSISDN: 966582996544 - Balance: 4840
+--- 
+Source 1: ["New 7ala 1 MNP", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"1329380", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966548999635 - Balance: 827
+--- 
+Source 1: ["New 7ala 1", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"4875380", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966555520784 - Balance: 134
+--- 
+Source 1: ["New 7ala 1 MNP", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"4902880", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966566960440 - Balance: 364
+--- 
+Source 1: ["7ala_Plus_TM9114_MNP", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"10", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["WhatsApp Monthly Plus", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 3: ["1GB Data Bundle", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 4: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966544512277 - Balance: 0
+--- 
+Source 1: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966559595312 - Balance: 6704
+--- 
+Source 1: ["WhatsApp Monthly ", {"type"=>"DATA", "specialUse"=>"WhatsApp", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+Source 2: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966563603206 - Balance: 3
+--- 
+Source 1: ["7ala National", {"type"=>"BALANCE", "specialUse"=>"", "remaining"=>"287", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966544280236 - Balance: 0
+--- 
+Source 1: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966555806863 - Balance: 771
+--- 
+Source 1: ["New 7ala 1", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"4502630", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966541296546 - Balance: 32
+--- 
+Source 1: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966544892593 - Balance: 1
+--- 
+Source 1: ["Prime Package", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"528920", "consumed"=>"519656", "original"=>"1048576"}]
+Source 2: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
+MSISDN: 966561351315 - Balance: 13125
+--- 
+Source 1: ["New 7ala 1", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"3520880", "consumed"=>"-2", "original"=>"-2"}]
+Source 2: ["Connect Roaming Unlimited Monthly", {"type"=>"DATA", "specialUse"=>"", "remaining"=>"-1", "consumed"=>"-1", "original"=>"-1"}]
+================== 
+
