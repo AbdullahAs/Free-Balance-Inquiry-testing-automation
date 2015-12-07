@@ -65,13 +65,15 @@ end
 # find the FBI resources and return them in an array
 def find_resources_of_msisdn(doc, subscriberId, balance)
   resources = Hash.new{|hash, key| hash[key] = Hash.new }
+  number = 1
   doc.css('resource').each do |r|
-    source = r.css('source')[0].text
-    resources[source]['type'] = r.css('type')[0].text
-    resources[source]['specialUse'] = r.css('specialUse')[0].text
-    resources[source]['remaining'] = r.css('remaining')[0].text
-    resources[source]['consumed'] = r.css('consumed')[0].text
-    resources[source]['original'] = r.css('original')[0].text
+    resources[number]['source'] = r.css('source')[0].text
+    resources[number]['type'] = r.css('type')[0].text
+    resources[number]['specialUse'] = r.css('specialUse')[0].text
+    resources[number]['remaining'] = r.css('remaining')[0].text
+    resources[number]['consumed'] = r.css('consumed')[0].text
+    resources[number]['original'] = r.css('original')[0].text
+    number += 1
   end
   write_to_summary_file(resources, subscriberId, balance)
 end
@@ -82,12 +84,10 @@ end
 # Source 1: Prime Package - VOICE-OnNet: c[362] r[1638] t[2000]
 # ....
 def write_to_summary_file(resources, subscriberId, balance)
-  source = 1
   @summary_file.write('MSISDN: ' + subscriberId + " - Balance: " + balance + "\n")
   @summary_file.write("--- \n")
   resources.each do |r|
-    @summary_file.write("Source #{source}: " + r.to_s + "\n")
-    source += 1
+    @summary_file.write(r.to_s + "\n")
   end
   @summary_file.write("================== \n\n")
 end
