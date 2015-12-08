@@ -13,11 +13,11 @@ This script do the following as of V1.3:
 * Output a summary file with each MSISDN and its resources
 * Output the result for each MSISDN into a text file as POT
 
-# Reuirements
+## Reuirements
 * Ruby
 * Rubygems
 
-# How to
+## How to
 In order to run this script, you just need to:
 * Supply the MSISDNs.txt file with a list of MSISDNs
 * Have Ruby installed in your machine
