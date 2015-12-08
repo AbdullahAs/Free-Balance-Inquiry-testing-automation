@@ -1,4 +1,4 @@
-/ Work Under Progress /
+![](http://www.forethinkingpeople.com/shared/graphics/ConstructionInProgressIcon01.gif) Work Under Progress ![](http://www.forethinkingpeople.com/shared/graphics/ConstructionInProgressIcon01.gif)
 
 # Free Balance Inquiry testing automation script
 To run series of MSISDNs against the Free Balance Inquiry service of Mobily
@@ -23,4 +23,7 @@ In order to run this script, you just need to:
 * Have Ruby installed in your machine
 * Access to the right environment
 * Run the script ./fbi_test.rb
+
+## Example
+![](https://cloud.githubusercontent.com/assets/904363/11667844/2302364c-9e05-11e5-9e53-bfa7fcd66730.png)
 
